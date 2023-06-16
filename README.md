@@ -45,13 +45,13 @@
     
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmouddwidar&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mahmouddwidar" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariemkhaled&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mariemkhaled" />
 </p>
 
 <p align="center">      
 <a href="https://https://github.com/gitmariemkhaled">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mahmouddwidar&show_icons=true&theme=gruvbox&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmouddwidar&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mariemkhaled&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mariemkhaled&theme=gruvbox&hide_border=true" />
 </a>
 </p>
 
