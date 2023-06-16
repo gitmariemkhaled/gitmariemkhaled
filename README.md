@@ -64,10 +64,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marim-khaled-750350256/" target='_blank'><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> 
-<a href="maremkhaled@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
+<a href="maremkhaled11111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
 
-<p align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmouddwidar&label=Profile%20views&color=0e75b6&style=flat" alt="mahmouddwidar" /> </p>
-</p>
-      
+ 
 
