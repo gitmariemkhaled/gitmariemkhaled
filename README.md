@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">      
-<a href="https://github.com/mahmouddwidar">
+<a href="https://https://github.com/gitmariemkhaled">
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mahmouddwidar&show_icons=true&theme=gruvbox&hide_border=true" />
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmouddwidar&theme=gruvbox&hide_border=true" />
 </a>
@@ -63,7 +63,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marim-khaled-750350256/" target='_blank'><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> 
-<a href="maremkhaled11111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
+<a href="mailto:maremkhaled11111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
 
  
 
