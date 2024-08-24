@@ -15,8 +15,8 @@
 <br>
 
 - A Passionate Self-taught Full-stack Web developer.
-- I am IT student in zagazig university.
-- Currently, I'm Learning back-End Development.
+- I am IT graduate in zagazig university.
+- Currently, I'm Learning Front-End Development.
 
 <br>
 
