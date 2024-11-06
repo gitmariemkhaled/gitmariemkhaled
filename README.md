@@ -27,7 +27,7 @@
 
 ##### 💪 Programming Languages
 <a href="#"><img alt="c++" src="https://img.shields.io/badge/c++-FFD43B?style=for-the-badge&logo=c++&logoColor=blue"></a>
-<a href="#"><img alt="java" src="https://img.shields.io/badge/java-FFD43B?style=for-the-badge&logo=java&logoColor=blue"></a>
+<a href="#"><img alt="python" src="https://img.shields.io/badge/java-FFD43B?style=for-the-badge&logo=java&logoColor=blue"></a>
 
 
 ##### 💪 Front-End Development
